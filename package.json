@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/github/actions-cheat-sheet#readme",
   "dependencies": {
-    "@asciidoctor/core": "^2.0.3",
+    "@asciidoctor/core": "^2.2.5",
     "asciidoctor-pdf": "^1.0.0-alpha.3"
   }
 }
